@@ -8,7 +8,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 <div id="webaddress">
 <a href="https://gop19001@byui.edu">BYUI Email</a>
 | <a href="https://github.com/ggopeh">My Github</a>
-| <a href="https://linkedin.com/in/gladysgopeh">LinkedIn</a>
+| <a href="https://linkedin.com/in/gladysgopeh/">LinkedIn</a>
 | <a href="https://ggopeh.github.io/gladys_resume/">My Repo</a>
 </div>
 
