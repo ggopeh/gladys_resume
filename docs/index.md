@@ -50,6 +50,11 @@ __David O McKay Library__, Rexburg, ID
 `2023-2025`
 __Lead Student Mentor__, Rexburg,ID
 
+- Served as a mentor to freshmen as they fully transition into a new learning environment
+	
+- Helped freshmen locate materials on campus that could aide in various aspect of their academic lives 
+- Led a subgroup of six mentors
+- Conducted regular meetings with my subgroup to check in on their mentees and their goals
 
 
 <!-- ### Footer
